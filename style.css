@@ -78,7 +78,7 @@ nav ul li a:hover {
     position: relative;
     margin: 0;
     height: 100vh; 
-    background-image: url('bmt.jpeg');
+    background-image: url('imagebmt/bmt.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -171,7 +171,7 @@ nav ul li a:hover {
 /*prioritas bmt */
  #prioritas {
     position: relative;
-    background-image: url('bmtdalem.jpg');
+    background-image: url('imagebmt/bmtdalem.jpg');
     background-repeat: no-repeat;
     background-position: center;
     margin-top: 100px;
@@ -623,7 +623,7 @@ nav ul li a:hover {
   margin: 0px;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url('bmtlast.jpeg');
+  background-image: url('imagebmt/bmtlast.jpeg');
   background-position: center;
   background-size: cover;
   overflow: hidden;
@@ -676,7 +676,7 @@ nav ul li a:hover {
   margin: 0px;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url('bmtlast.jpeg');
+  background-image: url('imagebmt/bmtlast.jpeg');
   background-position: center;
   background-size: cover;
   overflow: hidden;
